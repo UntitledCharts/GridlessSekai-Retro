@@ -18,7 +18,9 @@ You need **40GB+ free** on your device.
 
 Assets don't change between releases. This is a pure archive with all resources unlocked, no added or modded content.
 
-**[Download assets from archive.org](https://archive.org/details/pjsk_2.8.0_assets)**
+- **[Download assets from archive.org](https://archive.org/details/pjsk_2.8.0_assets)**
+- **Help contribute - upload assets to places that allow it! (Open an issue to get it added here as a download url).**
+- **Help us create a torrent - upload this file to public and private trackers. (Open an issue to get a magnet link added here as a download url).**
 
 # Install Guide
 
