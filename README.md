@@ -17,18 +17,12 @@ Asset downloads will not change per release - there is no added content or modde
 ### Android
 - Open a file manager app (e.g. **ZArchiver**, **Solid Explorer**, or **MT Manager**), your preinstalled Android app usually isn't enough.
 - Navigate to `/sdcard/Android/data/com.sbuga.gridlesssekair/files/`
-- Extract `assets_android.zip` into this folder so you end up with:
-  ```
-  Android/data/com.sbuga.gridlesssekair/files/gridlesssekairetro/assets/android/...
-  ```
+- Move  `assets_android.zip` into this folder. **DO NOT EXTRACT**
 ### iOS
 - Open the **Files** app on your device
 - Navigate to **On My iPhone** -> **GridlessSekai Retro** (the app name)
   - If you don't see it, make sure File Sharing is enabled (most sideloaders have a "Force File Sharing" option)
-- Extract `assets_ios.zip` here so you end up with:
-  ```
-  gridlesssekairetro/assets/ios/...
-  ```
+- Move `assets_ios.zip` here. **DO NOT EXTRACT**
 
 # Issues (Bugs / Suggestions)
 Please make a GitHub account, and open an issue here!
