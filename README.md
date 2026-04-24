@@ -30,6 +30,8 @@ Assets don't change between releases. This is a pure archive with all resources 
 
 Download `assets_android.zip` to your device's Downloads folder, then copy it to the app's data directory using one of these methods:
 
+NOTE: experienced users, you just need to move the `assets_android.zip` to `/sdcard/Android/data/com.sbuga.gridlesssekair/files/`. You can do this with any method you want (such as root).
+
 **Option A: ADB (PC required)**
 
 Download `assets_android.zip` to your PC, then run:
