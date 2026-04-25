@@ -59,7 +59,7 @@ Example YouTube searches: `sideload ios no pc`, `sideload ios impactor` (require
 **Do not open the app yet.**
 
 #### 2. Move assets
-- Download the assets
+- Download the assets `assets_ios.zip`
 - Open the **Files** app
 - Navigate to **On My iPhone** -> **GridlessSekai RETRO**
   - If you don't see it, make sure File Sharing is enabled (most sideloaders have a "Force File Sharing" option)
