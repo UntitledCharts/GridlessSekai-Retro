@@ -1,3 +1,5 @@
+# post content online at your own risk (don't do it)
+
 # GridlessSekai Retro
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GridlessSekai/GridlessSekai-Retro/total) ![GitHub Repo stars](https://img.shields.io/github/stars/GridlessSekai/GridlessSekai-Retro)
 
