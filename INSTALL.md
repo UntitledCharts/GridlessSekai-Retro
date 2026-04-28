@@ -2,6 +2,10 @@
 > [!IMPORTANT]
 > **DO NOT EXTRACT the zip.**
 
+# UNOFFICIAL FAN-MADE GUIDE CAN BE FOUND HERE: https://gridlesssekai.patchednexus.win/
+> [!IMPORTANT]
+> We do NOT provide help or support for installing GridlessSekai Retro beyond these instructions. Do not open any Issues to ask for help, unless it is a bug.
+
 ## Android
 
 #### 1. Install the APK
