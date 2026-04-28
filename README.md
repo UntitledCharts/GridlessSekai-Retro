@@ -2,6 +2,9 @@
 ### ⚠️ This project is _not RetroSEKAI or OurStage_. RetroSEKAI and OurStage are both shut down. The developer of RetroSEKAI has no involvement in this project, nor was any of the RetroSEKAI code used or referenced for this project.
 ### *This project is provided for educational and archival purposes only, and is not affiliated with SEGA, Crypton, or Colorful Palette.*
 
+> [!IMPORTANT]
+> We do NOT provide help or support for installing GridlessSekai Retro beyond these instructions. Do not open any Issues to ask for help, unless it is a bug.
+
 # GridlessSekai Retro
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GridlessSekai/GridlessSekai-Retro/total) ![GitHub Repo stars](https://img.shields.io/github/stars/GridlessSekai/GridlessSekai-Retro)
 
