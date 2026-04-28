@@ -1,11 +1,9 @@
-# post content online at your own risk (don't do it)
+### ⚠️ Post content online at your own risk - SEGA has banned unofficial apps on social media of any type for unofficial versions of the game.
+### ⚠️ This project is _not RetroSEKAI or OurStage_. RetroSEKAI and OurStage are both shut down. The developer of RetroSEKAI has no involvement in this project, nor was any of the RetroSEKAI code used or referenced for this project.
+### *This project is provided for educational and archival purposes only, and is not affiliated with SEGA, Crypton, or Colorful Palette.*
 
 # GridlessSekai Retro
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GridlessSekai/GridlessSekai-Retro/total) ![GitHub Repo stars](https://img.shields.io/github/stars/GridlessSekai/GridlessSekai-Retro)
-
-> Me: creates new project
-> 
-> Community: omg existing similar project, must be a copy!!11!
 
 A fully **offline** archive of HATSUNE MIKU: COLORFUL STAGE (JP, v2.8.0 - released 2023). Yes, you can play it without internet!
 
@@ -13,7 +11,7 @@ This project is a culmination of ALL my knowledge. If you enjoy it, please **⭐
 
 This app is a sandbox. All songs, cards, etc. are unlocked and maxed. **THE APP WILL NOT WORK WITHOUT ASSETS! YOU MUST DOWNLOAD ASSETS BEFORE USING IT.**
 
-> This project is partially AI-assisted with Claude, due to my unfamiliarity with C++. If you dislike it - don't use it. Nobody is forcing you to.
+> This project is partially AI-assisted with Claude, due to my unfamiliarity with C++. If you dislike it - don't use it. Nobody is forcing you to. I provide this notice as a courtesy to you.
 >
 > For those who don't know the difference: no the project isn't fully AI. No, AI cannot make this project. The work here is based off OurStage (which has an API structure similar enough) as it is more feature-complete and has a base for hooking the game functions, and not RetroSekai (which I do not even have access to).
 
