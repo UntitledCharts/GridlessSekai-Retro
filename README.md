@@ -36,6 +36,10 @@ Assets don't change between releases. This is a pure archive with all resources 
 - **Help contribute - upload assets to places that allow it! (Open an issue to get it added here as a download url).**
 - **Help us create a torrent - upload this file to public and private trackers. (Open an issue to get a magnet link added here as a download url).**
 
+> `assets_android.zip` MD5 hash: `30FF9C284128E58B8E8DBDED80A07BF8`
+> 
+> `assets_ios.zip` MD5 hash: `4ABCE5752E3F70CE76E8B762DF040384`
+
 # Installing
 Refer to [INSTALL.md](INSTALL.md)
 
